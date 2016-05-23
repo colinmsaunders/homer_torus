@@ -1,0 +1,173 @@
+H_POSS	retch
+H_POSS	coach
+H_POSS	poach
+H_POSS	ninth
+H_POSS	catch
+H_POSS	psych
+H_POSS	pitch
+H_POSS	earth
+H_POSS	fifth
+H_POSS	bunch
+H_POSS	death
+H_POSS	botch
+H_POSS	graph
+H_POSS	tilth
+H_POSS	smith
+H_POSS	bench
+H_POSS	seeth
+H_POSS	neath
+H_POSS	match
+H_POSS	march
+H_POSS	belch
+H_POSS	dutch
+H_POSS	watch
+H_POSS	torah
+H_POSS	loath
+H_POSS	lynch
+H_POSS	birth
+H_POSS	gulch
+H_POSS	roach
+H_POSS	month
+H_POSS	pinch
+H_POSS	patch
+H_POSS	wroth
+H_POSS	doeth
+H_POSS	wench
+H_POSS	torch
+H_POSS	sooth
+H_POSS	booth
+H_POSS	tenth
+H_POSS	glyph
+H_POSS	butch
+H_POSS	obeah
+H_POSS	lurch
+H_POSS	milch
+H_POSS	bumph
+H_POSS	mynah
+H_POSS	forth
+H_POSS	yecch
+H_POSS	sixth
+H_POSS	punch
+H_POSS	pooch
+H_POSS	witch
+H_POSS	teach
+H_POSS	oomph
+H_POSS	faith
+H_POSS	latch
+H_POSS	conch
+H_POSS	nymph
+H_POSS	sloth
+H_POSS	birch
+H_POSS	bitch
+H_POSS	welch
+H_POSS	ditch
+H_POSS	mooch
+H_POSS	filth
+H_POSS	wrath
+H_POSS	width
+H_POSS	goeth
+H_POSS	firth
+H_POSS	leech
+H_POSS	leach
+H_POSS	porch
+H_POSS	rajah
+H_POSS	sylph
+H_POSS	aleph
+H_POSS	selah
+H_POSS	lymph
+H_POSS	beech
+H_POSS	winch
+H_POSS	berth
+H_POSS	morph
+H_POSS	tench
+H_POSS	batch
+H_POSS	worth
+H_POSS	larch
+H_POSS	cinch
+H_POSS	mirth
+H_POSS	troth
+H_POSS	fetch
+H_POSS	girth
+H_POSS	perch
+H_POSS	froth
+H_POSS	saith
+H_POSS	broth
+H_POSS	reach
+H_POSS	cooch
+H_POSS	cloth
+H_POSS	peach
+H_POSS	staph
+H_POSS	parch
+H_POSS	mulch
+H_POSS	epoch
+H_POSS	dieth
+H_POSS	synch
+H_POSS	finch
+H_POSS	aitch
+H_POSS	beach
+H_POSS	munch
+H_POSS	filch
+H_POSS	natch
+H_POSS	lieth
+H_POSS	lunch
+H_POSS	ranch
+H_POSS	ketch
+H_POSS	tooth
+H_POSS	depth
+H_POSS	teeth
+H_POSS	north
+H_POSS	notch
+OD_POSS	brood
+OD_POSS	stood
+OD_POSS	ephod
+OD_POSS	bipod
+OD_POSS	synod
+OD_POSS	scrod
+OD_POSS	flood
+OD_POSS	snood
+OD_POSS	blood
+SOL3	saras	torus	parch	scrod	homos	dents	rural	homer	donut	strop	saras	lurch	scrod
+SOL3	sares	torus	perch	scrod	homos	dents	rural	homer	donut	strop	sares	lurch	scrod
+SOL3	lutch	torus	pitch	scrod	homos	dents	rural	homer	donut	strop	saris	lutch	scrod
+SOL3	rutch	torus	retch	scrod	humor	menus	rumor	homer	donut	rumor	sores	rutch	scrum
+SOL3	rorot	torus	tenth	scrod	humor	tenon	rural	homer	donut	rorot	nares	lunch	strut
+SOL3	nanob	torus	bench	stood	solon	penal	sunup	holes	donut	nanob	lures	punts	scoop
+SOL3	strod	torus	dieth	stood	solos	dents	suras	holes	donut	strod	saris	suets	stood
+SOL3	strod	torus	dieth	stood	silos	cents	suras	holes	donut	strod	saris	suets	stoic
+SOL3	stnol	torus	latch	stood	solos	tents	sunup	holes	donut	stnol	suras	putts	scoot
+SOL3	stpol	torus	leech	stood	solos	tenth	supes	holes	donut	stpol	heres	suets	scoot
+SOL3	strol	torus	leech	stood	solos	tenth	suras	holes	donut	strol	hares	suets	scoot
+SOL3	strol	torus	lieth	stood	solos	dents	suras	holes	donut	strol	saris	suets	stood
+SOL3	strol	torus	lieth	stood	silos	cents	suras	holes	donut	strol	saris	suets	stoic
+SOL3	slras	torus	parch	stood	solos	tents	surly	holes	donut	strop	slras	yurts	scoot
+SOL3	stnop	torus	patch	stood	solos	tents	sunup	holes	donut	stnop	suras	putts	scoot
+SOL3	ruans	torus	peach	snood	solos	tenth	surer	holes	donut	strop	heres	ruans	scoot
+SOL3	suans	torus	peach	snood	solos	tenth	suras	holes	donut	strop	hares	suans	scoot
+SOL3	rurns	torus	perch	snood	solos	tenth	surer	holes	donut	strop	heres	rurns	scoot
+SOL3	surns	torus	perch	snood	solos	tenth	suras	holes	donut	strop	hares	surns	scoot
+SOL3	slres	torus	perch	stood	solos	tents	surly	holes	donut	strop	slres	yurts	scoot
+SOL3	rurts	torus	perch	stood	solos	tenth	surer	holes	donut	strop	heres	rurts	scoot
+SOL3	hlres	torus	perch	stood	solos	tenth	surly	holes	donut	strop	hlres	yurts	scoot
+SOL3	surts	torus	perch	stood	solos	tenth	suras	holes	donut	strop	hares	surts	scoot
+SOL3	seris	torus	pinch	stood	solos	tents	surer	holes	donut	strop	seris	runts	scoot
+SOL3	stgop	torus	pinch	stood	solos	tents	sugar	holes	donut	stgop	saris	runts	scoot
+SOL3	stmop	torus	pinch	stood	solos	tents	sumac	holes	donut	stmop	saris	cunts	scoot
+SOL3	sunts	torus	pinch	stood	solos	tents	suras	holes	donut	strop	saris	sunts	scoot
+SOL3	sutts	torus	pitch	stood	solos	tents	suras	holes	donut	strop	saris	sutts	scoot
+SOL3	ruans	torus	poach	snood	solos	tenth	surer	holes	donut	strop	heros	ruans	scoot
+SOL3	ruons	torus	pooch	snood	solos	tenth	surer	holes	donut	strop	heros	ruons	scoot
+SOL3	rurns	torus	porch	snood	solos	tenth	surer	holes	donut	strop	heros	rurns	scoot
+SOL3	rurts	torus	porch	stood	solos	tenth	surer	holes	donut	strop	heros	rurts	scoot
+SOL3	hlros	torus	porch	stood	solos	tenth	surly	holes	donut	strop	hlros	yurts	scoot
+SOL3	sanor	torus	retch	stood	solos	penal	sunup	holes	donut	sanor	lures	putts	scoop
+SOL3	skras	torus	saith	stood	solos	penis	sulks	holes	donut	silos	skras	suits	stoop
+SOL3	mkres	torus	seeth	stood	solos	denim	sulks	holes	donut	silos	mkres	suets	stood
+SOL3	siros	torus	seeth	stood	solos	denim	suras	holes	donut	siros	mares	suets	stood
+SOL3	skres	torus	seeth	stood	solos	penis	sulks	holes	donut	silos	skres	suets	stoop
+SOL3	scrot	torus	tench	stood	solos	tench	surer	holes	donut	scrot	heres	runts	scoot
+SOL3	scgot	torus	tench	stood	solos	tench	sugar	holes	donut	scgot	hares	runts	scoot
+SOL3	scpot	torus	tench	stood	solos	tench	super	holes	donut	scpot	heres	runts	scoot
+SOL3	scmot	torus	tench	stood	solos	tench	sumac	holes	donut	scmot	hares	cunts	scoot
+SOL3	nomow	torus	welch	stood	solon	tenon	sumac	holes	donut	nomow	nares	cults	scoot
+SOL3	nogow	torus	wench	stood	solon	tenon	sugar	holes	donut	nogow	nares	runts	scoot
+SOL3	nomow	torus	wench	stood	solon	tenon	sumac	holes	donut	nomow	nares	cunts	scoot

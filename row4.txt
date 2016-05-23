@@ -1,0 +1,505 @@
+H_POSS	retch
+H_POSS	coach
+H_POSS	poach
+H_POSS	ninth
+H_POSS	catch
+H_POSS	psych
+H_POSS	pitch
+H_POSS	earth
+H_POSS	fifth
+H_POSS	bunch
+H_POSS	death
+H_POSS	botch
+H_POSS	graph
+H_POSS	tilth
+H_POSS	smith
+H_POSS	bench
+H_POSS	seeth
+H_POSS	neath
+H_POSS	match
+H_POSS	march
+H_POSS	belch
+H_POSS	dutch
+H_POSS	watch
+H_POSS	torah
+H_POSS	loath
+H_POSS	lynch
+H_POSS	birth
+H_POSS	gulch
+H_POSS	roach
+H_POSS	month
+H_POSS	pinch
+H_POSS	patch
+H_POSS	wroth
+H_POSS	doeth
+H_POSS	wench
+H_POSS	torch
+H_POSS	sooth
+H_POSS	booth
+H_POSS	tenth
+H_POSS	glyph
+H_POSS	butch
+H_POSS	obeah
+H_POSS	lurch
+H_POSS	milch
+H_POSS	bumph
+H_POSS	mynah
+H_POSS	forth
+H_POSS	yecch
+H_POSS	sixth
+H_POSS	punch
+H_POSS	pooch
+H_POSS	witch
+H_POSS	teach
+H_POSS	oomph
+H_POSS	faith
+H_POSS	latch
+H_POSS	conch
+H_POSS	nymph
+H_POSS	sloth
+H_POSS	birch
+H_POSS	bitch
+H_POSS	welch
+H_POSS	ditch
+H_POSS	mooch
+H_POSS	filth
+H_POSS	wrath
+H_POSS	width
+H_POSS	goeth
+H_POSS	firth
+H_POSS	leech
+H_POSS	leach
+H_POSS	porch
+H_POSS	rajah
+H_POSS	sylph
+H_POSS	aleph
+H_POSS	selah
+H_POSS	lymph
+H_POSS	beech
+H_POSS	winch
+H_POSS	berth
+H_POSS	morph
+H_POSS	tench
+H_POSS	batch
+H_POSS	worth
+H_POSS	larch
+H_POSS	cinch
+H_POSS	mirth
+H_POSS	troth
+H_POSS	fetch
+H_POSS	girth
+H_POSS	perch
+H_POSS	froth
+H_POSS	saith
+H_POSS	broth
+H_POSS	reach
+H_POSS	cooch
+H_POSS	cloth
+H_POSS	peach
+H_POSS	staph
+H_POSS	parch
+H_POSS	mulch
+H_POSS	epoch
+H_POSS	dieth
+H_POSS	synch
+H_POSS	finch
+H_POSS	aitch
+H_POSS	beach
+H_POSS	munch
+H_POSS	filch
+H_POSS	natch
+H_POSS	lieth
+H_POSS	lunch
+H_POSS	ranch
+H_POSS	ketch
+H_POSS	tooth
+H_POSS	depth
+H_POSS	teeth
+H_POSS	north
+H_POSS	notch
+OD_POSS	brood
+OD_POSS	stood
+OD_POSS	ephod
+OD_POSS	bipod
+OD_POSS	synod
+OD_POSS	scrod
+OD_POSS	flood
+OD_POSS	snood
+OD_POSS	blood
+ODH_POSS	retch	stood	
+ODH_POSS	retch	scrod	
+ODH_POSS	coach	brood	
+ODH_POSS	coach	scrod	
+ODH_POSS	coach	snood	
+ODH_POSS	coach	blood	
+ODH_POSS	poach	brood	
+ODH_POSS	poach	scrod	
+ODH_POSS	poach	snood	
+ODH_POSS	poach	blood	
+ODH_POSS	ninth	stood	
+ODH_POSS	ninth	scrod	
+ODH_POSS	ninth	snood	
+ODH_POSS	catch	stood	
+ODH_POSS	catch	scrod	
+ODH_POSS	pitch	stood	
+ODH_POSS	pitch	scrod	
+ODH_POSS	earth	stood	
+ODH_POSS	earth	scrod	
+ODH_POSS	earth	snood	
+ODH_POSS	fifth	stood	
+ODH_POSS	bunch	stood	
+ODH_POSS	bunch	scrod	
+ODH_POSS	bunch	snood	
+ODH_POSS	death	scrod	
+ODH_POSS	death	snood	
+ODH_POSS	botch	brood	
+ODH_POSS	botch	stood	
+ODH_POSS	botch	scrod	
+ODH_POSS	graph	scrod	
+ODH_POSS	graph	snood	
+ODH_POSS	tilth	stood	
+ODH_POSS	tilth	scrod	
+ODH_POSS	tilth	flood	
+ODH_POSS	smith	stood	
+ODH_POSS	smith	scrod	
+ODH_POSS	smith	snood	
+ODH_POSS	bench	stood	
+ODH_POSS	bench	scrod	
+ODH_POSS	bench	snood	
+ODH_POSS	seeth	stood	
+ODH_POSS	seeth	snood	
+ODH_POSS	neath	scrod	
+ODH_POSS	neath	snood	
+ODH_POSS	match	stood	
+ODH_POSS	match	scrod	
+ODH_POSS	march	stood	
+ODH_POSS	march	ephod	
+ODH_POSS	march	scrod	
+ODH_POSS	march	snood	
+ODH_POSS	belch	stood	
+ODH_POSS	belch	ephod	
+ODH_POSS	belch	scrod	
+ODH_POSS	dutch	brood	
+ODH_POSS	dutch	stood	
+ODH_POSS	dutch	scrod	
+ODH_POSS	watch	stood	
+ODH_POSS	watch	scrod	
+ODH_POSS	torah	ephod	
+ODH_POSS	torah	bipod	
+ODH_POSS	torah	scrod	
+ODH_POSS	loath	brood	
+ODH_POSS	loath	scrod	
+ODH_POSS	loath	snood	
+ODH_POSS	loath	blood	
+ODH_POSS	birth	stood	
+ODH_POSS	birth	scrod	
+ODH_POSS	birth	flood	
+ODH_POSS	birth	snood	
+ODH_POSS	gulch	stood	
+ODH_POSS	gulch	ephod	
+ODH_POSS	gulch	scrod	
+ODH_POSS	gulch	blood	
+ODH_POSS	roach	brood	
+ODH_POSS	roach	scrod	
+ODH_POSS	roach	snood	
+ODH_POSS	roach	blood	
+ODH_POSS	month	stood	
+ODH_POSS	month	scrod	
+ODH_POSS	month	snood	
+ODH_POSS	pinch	stood	
+ODH_POSS	pinch	scrod	
+ODH_POSS	pinch	snood	
+ODH_POSS	patch	stood	
+ODH_POSS	patch	scrod	
+ODH_POSS	wroth	stood	
+ODH_POSS	wroth	snood	
+ODH_POSS	doeth	brood	
+ODH_POSS	doeth	stood	
+ODH_POSS	doeth	snood	
+ODH_POSS	doeth	blood	
+ODH_POSS	wench	stood	
+ODH_POSS	wench	scrod	
+ODH_POSS	wench	snood	
+ODH_POSS	torch	brood	
+ODH_POSS	torch	stood	
+ODH_POSS	torch	ephod	
+ODH_POSS	torch	scrod	
+ODH_POSS	torch	snood	
+ODH_POSS	torch	blood	
+ODH_POSS	sooth	stood	
+ODH_POSS	sooth	snood	
+ODH_POSS	booth	stood	
+ODH_POSS	booth	snood	
+ODH_POSS	tenth	stood	
+ODH_POSS	tenth	scrod	
+ODH_POSS	tenth	snood	
+ODH_POSS	butch	brood	
+ODH_POSS	butch	stood	
+ODH_POSS	butch	scrod	
+ODH_POSS	lurch	brood	
+ODH_POSS	lurch	stood	
+ODH_POSS	lurch	ephod	
+ODH_POSS	lurch	scrod	
+ODH_POSS	lurch	snood	
+ODH_POSS	lurch	blood	
+ODH_POSS	milch	stood	
+ODH_POSS	milch	ephod	
+ODH_POSS	milch	scrod	
+ODH_POSS	milch	flood	
+ODH_POSS	forth	brood	
+ODH_POSS	forth	stood	
+ODH_POSS	forth	scrod	
+ODH_POSS	forth	snood	
+ODH_POSS	forth	blood	
+ODH_POSS	yecch	stood	
+ODH_POSS	yecch	scrod	
+ODH_POSS	punch	stood	
+ODH_POSS	punch	scrod	
+ODH_POSS	punch	snood	
+ODH_POSS	pooch	stood	
+ODH_POSS	pooch	snood	
+ODH_POSS	witch	stood	
+ODH_POSS	witch	scrod	
+ODH_POSS	teach	scrod	
+ODH_POSS	teach	snood	
+ODH_POSS	faith	stood	
+ODH_POSS	faith	scrod	
+ODH_POSS	faith	snood	
+ODH_POSS	latch	stood	
+ODH_POSS	latch	scrod	
+ODH_POSS	conch	stood	
+ODH_POSS	conch	scrod	
+ODH_POSS	conch	snood	
+ODH_POSS	sloth	stood	
+ODH_POSS	sloth	snood	
+ODH_POSS	birch	stood	
+ODH_POSS	birch	ephod	
+ODH_POSS	birch	scrod	
+ODH_POSS	birch	flood	
+ODH_POSS	birch	snood	
+ODH_POSS	bitch	stood	
+ODH_POSS	bitch	scrod	
+ODH_POSS	welch	stood	
+ODH_POSS	welch	ephod	
+ODH_POSS	welch	scrod	
+ODH_POSS	ditch	stood	
+ODH_POSS	ditch	scrod	
+ODH_POSS	mooch	stood	
+ODH_POSS	mooch	snood	
+ODH_POSS	filth	stood	
+ODH_POSS	filth	scrod	
+ODH_POSS	filth	flood	
+ODH_POSS	wrath	scrod	
+ODH_POSS	wrath	snood	
+ODH_POSS	goeth	brood	
+ODH_POSS	goeth	stood	
+ODH_POSS	goeth	snood	
+ODH_POSS	goeth	blood	
+ODH_POSS	firth	stood	
+ODH_POSS	firth	scrod	
+ODH_POSS	firth	flood	
+ODH_POSS	firth	snood	
+ODH_POSS	leech	stood	
+ODH_POSS	leech	snood	
+ODH_POSS	leach	scrod	
+ODH_POSS	leach	snood	
+ODH_POSS	porch	brood	
+ODH_POSS	porch	stood	
+ODH_POSS	porch	ephod	
+ODH_POSS	porch	scrod	
+ODH_POSS	porch	snood	
+ODH_POSS	porch	blood	
+ODH_POSS	aleph	stood	
+ODH_POSS	aleph	snood	
+ODH_POSS	selah	ephod	
+ODH_POSS	selah	scrod	
+ODH_POSS	beech	stood	
+ODH_POSS	beech	snood	
+ODH_POSS	winch	stood	
+ODH_POSS	winch	scrod	
+ODH_POSS	winch	snood	
+ODH_POSS	berth	stood	
+ODH_POSS	berth	scrod	
+ODH_POSS	berth	snood	
+ODH_POSS	morph	brood	
+ODH_POSS	morph	stood	
+ODH_POSS	morph	scrod	
+ODH_POSS	morph	snood	
+ODH_POSS	morph	blood	
+ODH_POSS	tench	stood	
+ODH_POSS	tench	scrod	
+ODH_POSS	tench	snood	
+ODH_POSS	batch	stood	
+ODH_POSS	batch	scrod	
+ODH_POSS	worth	brood	
+ODH_POSS	worth	stood	
+ODH_POSS	worth	scrod	
+ODH_POSS	worth	snood	
+ODH_POSS	worth	blood	
+ODH_POSS	larch	stood	
+ODH_POSS	larch	ephod	
+ODH_POSS	larch	scrod	
+ODH_POSS	larch	snood	
+ODH_POSS	cinch	stood	
+ODH_POSS	cinch	scrod	
+ODH_POSS	cinch	snood	
+ODH_POSS	mirth	stood	
+ODH_POSS	mirth	scrod	
+ODH_POSS	mirth	flood	
+ODH_POSS	mirth	snood	
+ODH_POSS	troth	stood	
+ODH_POSS	troth	snood	
+ODH_POSS	fetch	stood	
+ODH_POSS	fetch	scrod	
+ODH_POSS	girth	stood	
+ODH_POSS	girth	scrod	
+ODH_POSS	girth	flood	
+ODH_POSS	girth	snood	
+ODH_POSS	perch	stood	
+ODH_POSS	perch	ephod	
+ODH_POSS	perch	scrod	
+ODH_POSS	perch	snood	
+ODH_POSS	froth	stood	
+ODH_POSS	froth	snood	
+ODH_POSS	saith	stood	
+ODH_POSS	saith	scrod	
+ODH_POSS	saith	snood	
+ODH_POSS	broth	stood	
+ODH_POSS	broth	snood	
+ODH_POSS	reach	scrod	
+ODH_POSS	reach	snood	
+ODH_POSS	cooch	stood	
+ODH_POSS	cooch	snood	
+ODH_POSS	cloth	stood	
+ODH_POSS	cloth	snood	
+ODH_POSS	peach	scrod	
+ODH_POSS	peach	snood	
+ODH_POSS	staph	scrod	
+ODH_POSS	staph	snood	
+ODH_POSS	parch	stood	
+ODH_POSS	parch	ephod	
+ODH_POSS	parch	scrod	
+ODH_POSS	parch	snood	
+ODH_POSS	mulch	stood	
+ODH_POSS	mulch	ephod	
+ODH_POSS	mulch	scrod	
+ODH_POSS	mulch	blood	
+ODH_POSS	epoch	stood	
+ODH_POSS	epoch	snood	
+ODH_POSS	dieth	stood	
+ODH_POSS	dieth	flood	
+ODH_POSS	dieth	snood	
+ODH_POSS	finch	stood	
+ODH_POSS	finch	scrod	
+ODH_POSS	finch	snood	
+ODH_POSS	aitch	stood	
+ODH_POSS	aitch	scrod	
+ODH_POSS	beach	scrod	
+ODH_POSS	beach	snood	
+ODH_POSS	munch	stood	
+ODH_POSS	munch	scrod	
+ODH_POSS	munch	snood	
+ODH_POSS	filch	stood	
+ODH_POSS	filch	ephod	
+ODH_POSS	filch	scrod	
+ODH_POSS	filch	flood	
+ODH_POSS	natch	stood	
+ODH_POSS	natch	scrod	
+ODH_POSS	lieth	stood	
+ODH_POSS	lieth	flood	
+ODH_POSS	lieth	snood	
+ODH_POSS	lunch	stood	
+ODH_POSS	lunch	scrod	
+ODH_POSS	lunch	snood	
+ODH_POSS	ranch	stood	
+ODH_POSS	ranch	scrod	
+ODH_POSS	ranch	snood	
+ODH_POSS	ketch	stood	
+ODH_POSS	ketch	scrod	
+ODH_POSS	tooth	stood	
+ODH_POSS	tooth	snood	
+ODH_POSS	teeth	stood	
+ODH_POSS	teeth	snood	
+ODH_POSS	north	brood	
+ODH_POSS	north	stood	
+ODH_POSS	north	scrod	
+ODH_POSS	north	snood	
+ODH_POSS	north	blood	
+ODH_POSS	notch	brood	
+ODH_POSS	notch	stood	
+ODH_POSS	notch	scrod	
+ROW4_POSS	aitch	scrod	havoc
+ROW4_POSS	batch	scrod	havoc
+ROW4_POSS	batch	scrod	heron
+ROW4_POSS	batch	scrod	holon
+ROW4_POSS	batch	stood	apron
+ROW4_POSS	batch	stood	spoon
+ROW4_POSS	batch	stood	spook
+ROW4_POSS	batch	stood	anion
+ROW4_POSS	batch	stood	swoon
+ROW4_POSS	batch	stood	afoot
+ROW4_POSS	batch	stood	snoot
+ROW4_POSS	batch	stood	argot
+ROW4_POSS	batch	stood	argon
+ROW4_POSS	batch	stood	snook
+ROW4_POSS	batch	stood	ingot
+ROW4_POSS	batch	stood	solon
+ROW4_POSS	batch	stood	arson
+ROW4_POSS	batch	stood	allot
+ROW4_POSS	beach	scrod	kapok
+ROW4_POSS	beach	snood	spoon
+ROW4_POSS	beach	snood	spook
+ROW4_POSS	beach	snood	onion
+ROW4_POSS	beach	snood	swoon
+ROW4_POSS	beach	snood	snoot
+ROW4_POSS	beach	snood	snook
+ROW4_POSS	beach	snood	solon
+ROW4_POSS	beach	snood	orlon
+ROW4_POSS	beech	snood	apron
+ROW4_POSS	beech	snood	anion
+ROW4_POSS	beech	snood	onion
+ROW4_POSS	beech	snood	afoot
+ROW4_POSS	beech	snood	argot
+ROW4_POSS	beech	snood	argon
+ROW4_POSS	beech	snood	arson
+ROW4_POSS	beech	snood	allot
+ROW4_POSS	beech	snood	orlon
+ROW4_POSS	beech	stood	spoon
+ROW4_POSS	beech	stood	spook
+ROW4_POSS	beech	stood	swoon
+ROW4_POSS	beech	stood	snoot
+ROW4_POSS	beech	stood	snook
+ROW4_POSS	beech	stood	solon
+ROW4_POSS	belch	ephod	swoon
+ROW4_POSS	belch	scrod	havoc
+ROW4_POSS	belch	scrod	heron
+ROW4_POSS	belch	scrod	tarot
+ROW4_POSS	belch	scrod	toyon
+ROW4_POSS	belch	scrod	holon
+ROW4_POSS	belch	scrod	taxon
+ROW4_POSS	belch	scrod	talon
+ROW4_POSS	belch	scrod	tenon
+ROW4_POSS	belch	stood	spoon
+ROW4_POSS	belch	stood	spook
+ROW4_POSS	belch	stood	swoon
+ROW4_POSS	belch	stood	snoot
+ROW4_POSS	belch	stood	snook
+ROW4_POSS	belch	stood	solon
+ROW4_POSS	bench	scrod	havoc
+ROW4_POSS	bench	scrod	heron
+ROW4_POSS	bench	scrod	holon
+ROW4_POSS	bench	snood	onion
+ROW4_POSS	bench	snood	orlon
+ROW4_POSS	bench	stood	apron
+ROW4_POSS	bench	stood	spoon
+ROW4_POSS	bench	stood	spook
+ROW4_POSS	bench	stood	anion
+ROW4_POSS	bench	stood	swoon
+ROW4_POSS	bench	stood	afoot
+ROW4_POSS	bench	stood	snoot
+ROW4_POSS	bench	stood	argot
+ROW4_POSS	bench	stood	argon
+ROW4_POSS	bench	stood	snook
+ROW4_POSS	bench	stood	solon
+ROW4_POSS	bench	stood	arson
+ROW4_POSS	bench	stood	allot
