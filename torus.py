@@ -45,13 +45,13 @@ h_poss = {}
 for i in h:
     if any_matches('...o%s' % i[0]) and any_matches('..r%s.' % i[1]) and any_matches('.u%s..' % i[2]) and any_matches('s%s...' % i[3]):
         h_poss[i] = 1
-        print 'H_POSS\t%s' % i
+#        print 'H_POSS\t%s' % i
 
 od_poss = {}
 for i in od:
     if any_matches('..r%s.' % i[0]) and any_matches('.u%s..' % i[1]) and any_matches('s.%s..' % i[2]):
         h_poss[i] = 1
-        print 'OD_POSS\t%s' % i
+#        print 'OD_POSS\t%s' % i
 
 if 0 :
     odh_poss = {}
@@ -126,6 +126,21 @@ for i in file('row2345.txt').readlines():
         d4 = '%s%sr%s%s' % (row5[4], row6[3], row2[1], row3[0])
         d5 = '%su%s%s%s' % (row6[4], row2[2], row3[1], row4[0])
         d6 = 's%s%s%s%s' % (row2[3], row3[2], row4[1], row5[0])
+        a = {}
+        a[d1] = 1
+        a[d2] = 1
+        a[d3] = 1
+        a[d4] = 1
+        a[d5] = 1
+        a[d6] = 1
+        a[row1] = 1
+        a[row2] = 1
+        a[row3] = 1
+        a[row4] = 1
+        a[row5] = 1
+        a[row6] = 1
+        if 12 != len(a):
+            continue
         bad = None
         if not d3 in words:
             bad = d3
